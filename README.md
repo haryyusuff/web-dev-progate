@@ -1,1 +1,1 @@
-# web-dev-progate
+# Learn with Progate
